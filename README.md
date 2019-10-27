@@ -1,7 +1,7 @@
 # dash
 Implementation of DASH algorithm from [1]
 
-# data
+### data
 Synthetic data is included in the data folder. Please find slice localization data here:
 https://archive.ics.uci.edu/ml/datasets/Relative+location+of+CT+slices+on+axial+axis
 
